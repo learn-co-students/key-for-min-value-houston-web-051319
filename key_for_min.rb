@@ -20,6 +20,3 @@ def key_for_min_value(name_hash)
   end
   key_low
 end
-
-
-# hash = {apple: 1, banana: 2, crepe: 3}
